@@ -2,9 +2,9 @@
 SkillTree for honnkyou
 
 - SystemManagement
- - [OS-Linux(RHEL6&7)](RHEL.tips)
+ - [OS-Linux(RHEL6&7)](SystemManagement/Linux/RHEL.md)
  - OS-Windows
- - [OS-Uix(AIX)](SystemManagement/Unix/AIX.tips)
+ - [OS-Uix(AIX)](SystemManagement/Unix/AIX.md)
  - Network
  - Storage
 - Programing
